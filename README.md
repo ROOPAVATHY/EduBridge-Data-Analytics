@@ -3,4 +3,4 @@
 
 
 # Tools
-### Python : Python3, NumPy, Pandas, Seaborn, Matplotlib,Web Scrapping & Scikit-learn
+### Python : Python3, NumPy, Pandas, Seaborn, Matplotlib.
